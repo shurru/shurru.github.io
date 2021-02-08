@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=DucKDlEAAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 Palaniappan, SM, Suresh, S, Haddad, J.M, & Duerstock, B. S. (2020). Adaptive Virtual Reality Exergame for Individualized Rehabilitation for Persons with Spinal Cord Injury. In Proceedings of the European Conference on Computer Vision (ECCV) Workshops. 
