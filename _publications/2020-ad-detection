@@ -1,0 +1,15 @@
+---
+title: "Automated Detection of Symptomatic Autonomic Dysreflexia Through Multimodal Sensing"
+collection: publications
+permalink: /publication/2020-ad-detection
+excerpt: '.'
+date: 2010-10-01
+venue: 'IEEE Journal of Translational Engineering and Medicine'
+paperurl: 'http://shurru.github.io/files/2020-ad-detection.pdf'
+citation: 'S. Suresh and B. S. Duerstock, (2020) "Automated Detection of Symptomatic Autonomic Dysreflexia Through Multimodal Sensing," <i> IEEE Journal of Translational Engineering in Health and Medicine.</i>'
+---
+Objective: Autonomic Dysreflexia (AD) is a potentially life-threatening syndrome which occurs in individuals with higher level spinal cord injuries (SCI). AD is caused by triggers which can lead to rapid escalation of pathophysiological responses and if the trigger is not removed, AD can be fatal. There is currently no objective, non-invasive and accurate monitoring system available to automatically detect the onset of AD symptoms in real time in a non-clinical setting. Technology or Method: We developed a user-independent method of symptomatic AD detection in real time with a wearable physiological telemetry system (PTS) and a machine learning model using data from eleven participants with SCI. Results: The PTS could detect onset of AD symptoms with an average accuracy of 94.10% and a false negative rate of 4.89%. Conclusions: The PTS can detect the onset of the symptoms AD with high sensitivity and specificity to assist people with SCIs in preventing the occurrence of AD. It would enable persons with high level SCIs to be more independent and pursue vocational activities while granting continuous medical oversight. Clinical Impact: The PTS could serve as a supplementary tool to current solutions to detect the onset of AD and prepare individuals who are newly injured to be better prepared for AD episodes. Moreover, it could be translated into a system to encourage individuals to practice better healthcare management to prevent future occurrences.
+
+[Download paper here](http://shurru.github.io/files/2020-ad-detection.pdf)
+
+Recommended citation: 'S. Suresh and B. S. Duerstock,(2020) "Automated Detection of Symptomatic Autonomic Dysreflexia Through Multimodal Sensing," <i> IEEE Journal of Translational Engineering in Health and Medicine.</i>'
