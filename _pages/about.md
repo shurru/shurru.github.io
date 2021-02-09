@@ -23,6 +23,3 @@ My aim is to combine these tools to allow an improved "quantified self".
 - Healthcare Statistics
 - Assistive and Wearable Technologies
 - Entrepreneurship (Business model development+ pitching) 
-
-
-###### Template forked from  https://github.com/academicpages/academicpages.github.io/blob/master/ 
