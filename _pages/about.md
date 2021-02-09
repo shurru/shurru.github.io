@@ -26,6 +26,6 @@ My aim is to combine these tools to allow an improved "quantified self".
 
 
 #### For more info 
-https://www.linkedin.com/in/shruthi42/
+- https://www.linkedin.com/in/shruthi42/
 ------
 Template forked from  https://github.com/academicpages/academicpages.github.io/blob/master/ 
