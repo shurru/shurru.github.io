@@ -25,7 +25,4 @@ My aim is to combine these tools to allow an improved "quantified self".
 - Entrepreneurship (Business model development+ pitching) 
 
 
-#### For more info 
-- https://www.linkedin.com/in/shruthi42/
-------
-Template forked from  https://github.com/academicpages/academicpages.github.io/blob/master/ 
+###### Template forked from  https://github.com/academicpages/academicpages.github.io/blob/master/ 
