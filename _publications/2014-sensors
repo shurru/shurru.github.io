@@ -1,0 +1,16 @@
+---
+title: "Effects of the artificial skin's thickness on the subsurface pressure profiles of flat, curved, and Braille surfaces"
+collection: publications
+permalink: /publication/2014-sensors
+excerpt: 'Robotic skin sesnors'
+date: 2014
+venue: 'IEEE Sensors'
+paperurl: 'http://shurru.github.io/files/2014-sensors.pdf'
+citation: 'Cabibihan, J. J., Chauhan, S. S., & Suresh, S. (2013). Effects of the artificial skin's thickness on the subsurface pressure profiles of flat, curved, and braille surfaces. <i>IEEE Sensors Journal</i>, 14(7), 2118-2128.'
+---
+
+The primary interface of contact between a robotic or prosthetic hand and the external world is through the artificial skin. To make sense of that contact, tactile sensors are needed. These sensors are normally embedded in soft synthetic materials for protecting the subsurface sensor from damage or for better hand-to-object contact. It is important to understand how the mechanical signals transmit from the artificial skin to the embedded tactile sensors. In this paper, we made use of a finite element model of an artificial fingertip with viscoelastic and hyperelastic behaviors to investigate the subsurface pressure profiles when flat, curved, and Braille surfaces were indented on the surface of the model. Furthermore, we investigated the effects of 1, 3, and 5 mm thickness of the skin on the subsurface pressure profiles. The simulation results were experimentally validated using a 25.4 μm thin pressure detecting film that was able to follow the contours of a non-planar surface, which is analogous to an artificial bone. Results show that the thickness of the artificial skin has an effect on the peak pressure, on the span of the pressure distribution, and on the overall shape of the pressure profile that was encoded on a curved subsurface structure. Furthermore, the flat, curved, and Braille surfaces can be discriminated from one another with the 1 and 3 mm artificial skin layers, but not with the 5 mm thick skin.
+
+[Download paper here](http://shurru.github.io/files/2014-sensors.pdf)
+
+Recommended citation: 'Cabibihan, J. J., Chauhan, S. S., & Suresh, S. (2013). Effects of the artificial skin's thickness on the subsurface pressure profiles of flat, curved, and braille surfaces. <i>IEEE Sensors Journal</i>, 14(7), 2118-2128.'.
